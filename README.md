@@ -91,10 +91,10 @@ Developed an interactive **Power BI dashboard** featuring:
 
 | File | Description |
 |---|---|
-| `online_retail_clean.csv` | Cleaned dataset |
+| `ecommerce_sample.csv` |  Sample dataset |
 | `ecommerce_dashboard.pbix` | Interactive dashboard file |
 | `Analysis_Report.xlsx` | Detailed findings |
-| `Project_Description.md` | Full project documentation |
+| `06_Documentation ` | Full project documentation |
 
 ---
 
