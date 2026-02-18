@@ -94,7 +94,7 @@ Developed an interactive **Power BI dashboard** featuring:
 | `ecommerce_sample.csv` |  Sample dataset |
 | `ecommerce_dashboard.pbix` | Interactive dashboard file |
 | `Analysis_Report.xlsx` | Detailed findings |
-| `06_Documentation ` | Full project documentation |
+| `Documentation ` | Full project documentation |
 
 ---
 
