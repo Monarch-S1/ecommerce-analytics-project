@@ -6,7 +6,7 @@ A UK-based online retailer generated more than half a million transactions betwe
 
 This project analyzes **525,462 raw transactions** to uncover the company's revenue drivers, customer behavior, product concentration, and potential growth risks.
 
-After data cleaning and validation, **399,569 revenue-generating transactions** from **4,285 customers** were analyzed, representing **$8.64M in total revenue**.
+After data cleaning and validation, **399,569 revenue-generating transactions** from **4,285 customers** were analyzed, representing **£8.64M in total revenue**.
 
 The analysis was built with **Microsoft Excel** and **Power BI**, moving from raw transactional data to business-focused insights and recommendations.
 
@@ -52,9 +52,9 @@ The project followed an end-to-end analytical workflow:
 
 ### Revenue Was Highly Seasonal
 
-The company generated **$8.64M in revenue**, but performance was not evenly distributed throughout the year.
+The company generated **£8.64M in revenue**, but performance was not evenly distributed throughout the year.
 
-November was the strongest month at approximately **$1.15M**, while February was the weakest at approximately **$497K**.
+November was the strongest month at approximately **£1.15M**, while February was the weakest at approximately **£497K**.
 
 The concentration of revenue toward Q4 suggests that the business should enter its peak season with strong inventory availability, customer retention efforts, and marketing preparation already in place.
 
@@ -87,7 +87,7 @@ While the UK represents a strong core market, this level of concentration create
 
 ### Order Value Presented an Upselling Opportunity
 
-The average order value was approximately **$456**.
+The average order value was approximately **£456**.
 
 This provides an opportunity to increase customer value through strategies such as product bundling, cross-selling, and targeted recommendations. Rather than relying solely on acquiring more customers, the company could also increase revenue by generating more value from existing customers.
 
@@ -95,11 +95,11 @@ This provides an opportunity to increase customer value through strategies such 
 
 Based on the analysis, five priorities emerged:
 
-1. **Launch retention campaigns before Q4** â€” Target at-risk customers before the company's strongest revenue period.
-2. **Protect high-performing products** â€” Prioritize Class A products in inventory planning, availability, and marketing.
-3. **Optimize low-performing products** â€” Evaluate Class C products for bundling, repositioning, discounting, or removal.
-4. **Increase customer value** â€” Use cross-selling and bundling strategies to increase average order value.
-5. **Reduce geographic concentration** â€” Develop international markets to create a more diversified revenue base.
+1. **Launch retention campaigns before Q4**: Target at-risk customers before the company's strongest revenue period.
+2. **Protect high-performing products**: Prioritize Class A products in inventory planning, availability, and marketing.
+3. **Optimize low-performing products**: Evaluate Class C products for bundling, repositioning, discounting, or removal.
+4. **Increase customer value**: Use cross-selling and bundling strategies to increase average order value.
+5. **Reduce geographic concentration**: Develop international markets to create a more diversified revenue base.
 
 ## Dashboard
 
@@ -111,6 +111,7 @@ The Power BI dashboard brings the analysis into a single decision-making view. I
 - ABC/Pareto product analysis
 - Geographic revenue distribution
 - Interactive filters for deeper exploration
+![Dashboard Screenshot](Visualizations/Ecommerce_Dashboard_page-0001.jpg)
 
 ## Tech Stack
 
@@ -147,3 +148,27 @@ The analysis moves beyond describing what happened to identify where the busines
 The central finding is clear: the company has strong revenue potential, but that revenue is concentrated across a small product portfolio, a narrow geographic market, and a business heavily dependent on its peak season.
 
 The opportunity is therefore not simply to sell more. It is to protect the customers, products, and markets already driving growth while building a more resilient revenue base.
+
+## About Me
+
+I'm Popoola Oluwaseyi David, AKA Monarch. I'm a data analyst based in Lagos, Nigeria, and I'm studying Logistics and Supply Chain Management at Lagos State University. That background shapes how I work with data. I don't just build charts, I try to figure out what a business should actually do differently because of them.
+
+My goal is to become a supply chain data professional, starting with analytics and growing toward analytics engineering. I work with Excel (Power Query, pivot tables, DAX), SQL Server, Python (pandas), Power BI and Tableau.
+
+## Open for Freelance
+
+I'm available for freelance data analysis projects, especially for small and mid-sized businesses that have plenty of data but no clear picture of what it's telling them.
+
+Here's what I can help with:
+
+- Cleaning and validating messy datasets in Excel or SQL
+- Building Power BI dashboards with KPIs, trends and filters
+- Customer segmentation (RFM) to find your best customers and the ones you're about to lose
+- Product and revenue analysis (Pareto/ABC, seasonality, concentration risk)
+- Turning findings into plain recommendations your team can act on
+
+If you have a project in mind, reach out and tell me what question you're trying to answer.
+
+**Email:** [Popoolaseyi26@gmail.com]
+**LinkedIn:** [linkedin.com/in/oluwaseyi-popoola-570264312](https://linkedin.com/in/oluwaseyi-popoola-570264312)
+**GitHub:** [github.com/Monarch-S1](https://github.com/Monarch-S1)
